@@ -1,1 +1,1 @@
-# codefundo-ham
+We plan to analyse the data available on floods in india in order to observe emerging patterns and trends to enhance prediction of flood hazards.we try to understand flood aspects such as: (i) severity class (associated with the frequency of flood) and (ii) magnitude (related to flood severity, flood duration and affected area of floods).we also try to see the pattern of occurence and predict occurence of floods.
